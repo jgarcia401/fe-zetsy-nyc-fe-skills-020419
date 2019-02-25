@@ -1,8 +1,10 @@
 /*////////////// Fonts //////////////*/
 
-/* link the web font used for the level 1 heading here */
 
-/*////////// Global Styles //////////*/
+header { font-family: Baskerville, serif
+}
+
+
 
 body {
 	background: #F3EBE9;
@@ -14,7 +16,16 @@ body {
 	width: 960px;
 	margin: 0 auto;
 	background: #fff;
-	padding: 0 45px 20px;
 }
 
 /* Write all remaining styles here */
+
+.center {
+  
+}
+
+
+
+
+
+
